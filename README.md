@@ -28,6 +28,7 @@ Class: 0 to 9 digit
 ---
 
 ### Binary Classification
+- 0 or non-zero
 
 ---
 
