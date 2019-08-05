@@ -27,10 +27,18 @@ Class: 0 to 9 digit
 
 ---
 
+### Performance Measures
+- Stratified KFold
+- kFold Cross Validation
+- Confusion Matrix (Precision vs Recall)
+- ROC Curve
+
 ### Binary Classification
 - 0 or non-zero
 
 ---
+
+### Performance Me
 
 ### Environment
 - Anaconda
